@@ -1,0 +1,12 @@
+{
+  "appId": "com.personal.jarvis",
+  "appName": "JARVIS Personal AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon_config_sample",
+      "iconColor": "#38bdf8"
+    }
+  }
+}

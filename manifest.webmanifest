@@ -1,0 +1,10 @@
+{
+  "name": "JARVIS Personal AI",
+  "short_name": "JARVIS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "description": "Personal AI assistant with voice, chat, and reminders.",
+  "icons": []
+}
